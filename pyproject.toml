@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "observer_pattern"
-version = "0.0.1"
+version = "1.0.0"
 authors = [
   { name="Gabriele Maurina", email="gabrielemaurina95@gmail.com" },
 ]

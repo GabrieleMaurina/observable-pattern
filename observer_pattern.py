@@ -33,3 +33,6 @@ class Observable:
     
     def __str__(self):
         return self.__repr__()
+    
+    def __contains__(self, observer):
+        return observer in self.__observers
