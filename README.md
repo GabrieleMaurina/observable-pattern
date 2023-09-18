@@ -1,2 +1,2 @@
-# observable-pattern
-Simple Observable Pattern Implementation
+# observer-pattern
+Simple Observer Pattern Implementation
